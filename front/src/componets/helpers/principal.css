@@ -1,0 +1,31 @@
+.containedor{
+    background-color: rgb(9, 99, 235);
+    width: 20%;
+    height: 100vh;
+    padding: 20px;
+}
+
+.contenedor1{
+    margin-top: 30%;
+    
+}
+.contenedor1 a{
+    text-decoration: none;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    width: 400px;
+    height: 300px;
+    margin-left: -10px;
+    margin-top: 80px;
+}
+.panel{
+    text-align: right;
+    color: black;
+    margin-top: -20%;
+    font-size: 40px;
+}
